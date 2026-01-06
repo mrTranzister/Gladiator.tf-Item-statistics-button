@@ -7,5 +7,5 @@ Improves item liquidity analytics.
 # Features
 This script adds a button that opens a new tab with the item’s statistics.
 <br><span style="font-size: 8px; font-weight: normal;">•</span>If you found the script useful, you can support me <a href="https://steamcommunity.com/tradeoffer/new/?partner=67578242&token=F58G4TRq" target="_blank" rel="noopener noreferrer">here</a>.
-<br>![](https://github.com/mrTranzister/Gladiator.tf-Item-statistics-button/blob/main/1.png)
 <br>![](https://github.com/mrTranzister/Gladiator.tf-Item-statistics-button/blob/main/2.png)
+<br>![](https://github.com/mrTranzister/Gladiator.tf-Item-statistics-button/blob/main/1.png)
