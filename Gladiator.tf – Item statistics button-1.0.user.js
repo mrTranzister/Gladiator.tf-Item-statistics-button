@@ -11,7 +11,6 @@
 (function () {
     'use strict';
 
-    // 🔶 додаємо стилі Gladiator
     const style = document.createElement('style');
     style.textContent = `
         .tm-stats-btn {
@@ -74,7 +73,6 @@
 
     addStatsButtons();
 
-    // 🧠 підтримка динамічного DOM
     const observer = new MutationObserver(addStatsButtons);
     observer.observe(document.body, {
         childList: true,
